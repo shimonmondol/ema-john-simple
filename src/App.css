@@ -1,7 +1,12 @@
 .App {
   text-align: center;
 }
-
+.Box{
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 220px;
+  padding-top: 20px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
